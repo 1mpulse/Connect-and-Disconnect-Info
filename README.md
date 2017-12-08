@@ -1,1 +1,3 @@
-# Connect and Disconnect Info
+## Connect and Disconnect Info
+
+Простой плагин для замены стандартных сообщений, с мультиязычностью.

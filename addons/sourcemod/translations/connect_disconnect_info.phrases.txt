@@ -1,0 +1,46 @@
+//{DEFAULT}
+//{RED}
+//{LIGHTPURPLE}
+//{GREEN}
+//{LIME}
+//{LIGHTGREEN}
+//{LIGHTRED}
+//{GRAY}
+//{LIGHTOLIVE}
+//{OLIVE}
+//{PURPLE}
+//{LIGHTBLUE}
+//{BLUE}
+"Phrases"
+{
+	"player_team_ct"
+	{
+		"#format"	"{1:N}"
+		"ru"		"{OLIVE}Игрок {PURPLE}{1} {OLIVE}зашел за {BLUE}КТ"
+		"en"		"{OLIVE}Player {PURPLE}{1} {OLIVE}moved {BLUE}CT"
+	}
+	"player_team_t"
+	{
+		"#format"	"{1:N}"
+		"ru"		"{OLIVE}Игрок {PURPLE}{1} {OLIVE}зашел за {RED}Т"
+		"en"		"{OLIVE}Player {PURPLE}{1} {OLIVE}moved {RED}T"
+	}
+	"player_team_spec"
+	{
+		"#format"	"{1:N}"
+		"ru"		"{OLIVE}Игрок {PURPLE}{1} {OLIVE}зашел за {DEFAULT}Спектров"
+		"en"		"{OLIVE}Player {PURPLE}{1} {OLIVE}moved {DEFAULT}Spec"
+	}
+	"player_connect"
+	{
+		"#format"	"{1:s}"
+		"ru"		"[{RED}+{DEFAULT}] {OLIVE}Игрок {PURPLE}{1} {OLIVE}подключается к серверу."
+		"en"		"[{RED}+{DEFAULT}] {OLIVE}Player {PURPLE}{1} {OLIVE}connect to the server."
+	}
+	"player_disconnect"
+	{
+		"#format"	"{1:N}"
+		"ru"		"[{RED}-{DEFAULT}] {OLIVE}Игрок {PURPLE}{1} {OLIVE}отключился от сервера."
+		"en"		"[{RED}-{DEFAULT}] {OLIVE}Player {PURPLE}{1} {OLIVE}disconnected from the server."
+	}
+}
